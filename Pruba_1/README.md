@@ -1,6 +1,5 @@
 ### Hola padawans :smile:
 Mis hobies 
-+ Patinar
-+ Hacer gimnasio
-+ viajar
-+ conocer gente
++ Patinar :roller_skate:
++ Hacer gimnasio :weight_lifting_woman:
++ viajar :airplane: 
